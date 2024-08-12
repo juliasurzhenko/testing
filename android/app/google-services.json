@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092865868839",
+    "project_id": "test-dc92c",
+    "storage_bucket": "test-dc92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092865868839:android:b2d1629bf47a74e2ec7a02",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZPDFBQx9cBkAcZqcFRlMwz5bkCTqPzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
